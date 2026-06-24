@@ -1,1 +1,1 @@
-Novice level Java backend project using springboot frameword for university.
+Novice level Java backend project for supermarkey using springboot frameword for university.
